@@ -18,8 +18,8 @@
 ---
 ### Steps 2: example
 ### Example Output
-<img src = "https://github.com/CMRRChenLab/DynamicDMRSI/tree/main/Code/example.png" >
-
+<img src = "[https://github.com/CMRRChenLab/DynamicDMRSI/tree/main/Code/example.png](https://github.com/CMRRChenLab/DynamicDMRSI/blob/main/Code/Pictures/example.png)" >
+<img src = "https://github.com/CMRRChenLab/DynamicDMRSI/blob/main/Code/Pictures/example.png" >
 
 ---
 
