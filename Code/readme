@@ -2,19 +2,23 @@
 
 <div style="font-size: 20px;">
 
-**This folder contains executable files to calculate SNR and perform kinetic modeling.**
-
-**For SNR maps:**
-1. Download all SNR files from [`DynamicDMRSI/data/SNRs`](https://github.com/.../DynamicDMRSI/data/SNRs).
-2. Place them in the **same folder** as:
-   - `PlotSNRs_maps.p`
-   - `subtightplot.m`
+**This folder contains executable files to calculate SNR (Signal-to-Noise Ratio) and perform kinetic modeling.**
 
 </div>
 
 ---
 
+## For SNR Maps:
+
+1. Download all SNR files from [`DynamicDMRSI/data/SNRs`](https://github.com/.../DynamicDMRSI/data/SNRs).
+2. Place them in the **same folder** as:
+   - `PlotSNRs_maps.p`
+   - `subtightplot.m`
+
+---
+
 ## Example Output
+
 ![SNR Maps Example](https://github.com/CMRRChenLab/DynamicDMRSI/edit/main/Code/example.png)  
 *Replace with your actual figure URL/Path*
 
@@ -23,3 +27,9 @@
 ### Requirements
 - MATLAB R2019b or later
 - [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html) (if compiled)
+
+---
+
+### Notes:
+- Ensure that the SNR files are placed in the correct directory as specified.
+- The script requires MATLAB and the associated Runtime to function correctly.
