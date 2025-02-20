@@ -1,4 +1,25 @@
-This folder containes the excutable files to calculate SNR and kinetic modeling
+# SNR and Kinetic Modeling Tools
 
-For SNR mpas, please download all SNRs from DynamicDMRSI/data/SNRs, and place them in a smae folder as PlotSNRs_maps.p and subtightplot.m
+<div style="font-size: 20px;">
 
+**This folder contains executable files to calculate SNR and perform kinetic modeling.**
+
+**For SNR maps:**
+1. Download all SNR files from [`DynamicDMRSI/data/SNRs`](https://github.com/.../DynamicDMRSI/data/SNRs).
+2. Place them in the **same folder** as:
+   - `PlotSNRs_maps.p`
+   - `subtightplot.m`
+
+</div>
+
+---
+
+## Example Output
+![SNR Maps Example](https://github.com/CMRRChenLab/DynamicDMRSI/edit/main/Code/example.png)  
+*Replace with your actual figure URL/Path*
+
+---
+
+### Requirements
+- MATLAB R2019b or later
+- [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html) (if compiled)
