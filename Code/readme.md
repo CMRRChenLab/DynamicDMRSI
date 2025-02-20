@@ -24,7 +24,7 @@
 ### Example Output
 execute the PlotSNRs_maps in matlab
 <img src = "https://github.com/CMRRChenLab/DynamicDMRSI/blob/main/Code/Pictures/example.png" >
--
+
 
 
 
@@ -33,7 +33,8 @@ execute the PlotSNRs_maps in matlab
 
 ----
 ## Knetic modeling
--
+
+---
 ### Steps 1: setup
 1. Download all kinetic data from [`DynamicDMRSI/data/Metabolic Kinetic Data`](https://github.com/data/Metabolic Kinetic Data/CMRglcTime.mat).
 2. Place the data in the **same folder** as:
