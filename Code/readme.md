@@ -2,7 +2,7 @@
 
 
 
-###This folder contains executable files to calculate SNR (Signal-to-Noise Ratio) and perform kinetic modeling.
+### This folder contains executable files to calculate SNR (Signal-to-Noise Ratio) and perform kinetic modeling.
 
 
 #### Plot SNR maps
