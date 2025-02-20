@@ -19,7 +19,7 @@
    - `PlotSNRs_maps.p`
    - `subtightplot.m`
 
--
+
 ### Steps 2: example
 ### Example Output
 execute the PlotSNRs_maps in matlab
@@ -40,13 +40,13 @@ execute the PlotSNRs_maps in matlab
 2. Place the data in the **same folder** as:
    - `PlotKineticModel.p`
      
--
+
 ### Steps 2: example
 ### Example Output
 execute the PlotKineticModel in matlab
-<img src = "https://github.com/CMRRChenLab/Code/Pictures/Fit1.png" >
-<img src = "https://github.com/CMRRChenLab/Code/Pictures/Fit2.png" >
-<img src = "https://github.com/CMRRChenLab/Code/Pictures/Fit3.png" >
+<img src = "https://github.com/CMRRChenLab/DynamicDMRSI/Code/Pictures/Fit1.png" >
+<img src = "https://github.com/CMRRChenLab/DynamicDMRSI/Code/Pictures/Fit2.png" >
+<img src = "https://github.com/CMRRChenLab/DynamicDMRSI/Code/Pictures/Fit3.png" >
 
 
 
