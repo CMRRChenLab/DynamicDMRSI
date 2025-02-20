@@ -4,9 +4,9 @@
 
 ## This folder contains executable files to calculate SNR (Signal-to-Noise Ratio) and perform kinetic modeling.
 
-
+----
 ## Plot SNR maps
----
+-
 ### Steps 1: setup
 ### For SNR Maps:
 
@@ -15,30 +15,33 @@
    - `PlotSNRs_maps.p`
    - `subtightplot.m`
 
----
+-
 ### Steps 2: example
 ### Example Output
 execute the PlotSNRs_maps in matlab
 <img src = "https://github.com/CMRRChenLab/DynamicDMRSI/blob/main/Code/Pictures/example.png" >
----
+-
 
 
 
 
 
 
-
-## Knetic modeling 
+----
+## Knetic modeling
+-
 ### Steps 1: setup
-1. Download all kinetic data from [`DynamicDMRSI/data/SNRs`](https://github.com/CMRRChenLab/DynamicDMRSI/tree/main/data/SNRs).
-2. Place them in the **same folder** as:
+1. Download all kinetic data from [`DynamicDMRSI/data/Metabolic Kinetic Data`](https://github.com/data/Metabolic Kinetic Data/CMRglcTime.mat).
+2. Place the data in the **same folder** as:
    - `PlotKineticModel.p`
      
----   
+-
 ### Steps 2: example
 ### Example Output
 execute the PlotKineticModel in matlab
-<img src = "https://github.com/CMRRChenLab/DynamicDMRSI/blob/main/Code/Pictures/example.png" >
+<img src = "https://github.com/CMRRChenLab/Code/Pictures/Fit1.png" >
+<img src = "https://github.com/CMRRChenLab/Code/Pictures/Fit2.png" >
+<img src = "https://github.com/CMRRChenLab/Code/Pictures/Fit3.png" >
 
 
 
