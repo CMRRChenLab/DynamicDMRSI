@@ -18,7 +18,7 @@
 ---
 ### Steps 2: example
 ### Example Output
-
+<img src = "https://github.com/rispoli-lab/Deep-Learning-Breast-FGT/blob/master/Pictures/mask2.png" >
 <img src = "https://github.com/CMRRChenLab/DynamicDMRSI/edit/main/Code/example.png" >
 
 
