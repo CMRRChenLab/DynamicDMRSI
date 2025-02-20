@@ -1,1 +1,1 @@
-The folder contains the SNR data and kinetic data 
+The folder contains the Chemical Shift Imaging (CSI) data, SNR data and kinetic data 
