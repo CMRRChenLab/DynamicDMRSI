@@ -1,1 +1,4 @@
 This folder containes the excutable files to calculate SNR and kinetic modeling
+
+For SNR mpas, please download all SNRs from DynamicDMRSI/data/SNRs, and place them in a smae folder as PlotSNRs_maps.p and subtightplot.m
+
