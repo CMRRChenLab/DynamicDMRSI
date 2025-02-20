@@ -22,6 +22,12 @@ execute the PlotSNRs_maps in matlab
 <img src = "https://github.com/CMRRChenLab/DynamicDMRSI/blob/main/Code/Pictures/example.png" >
 ---
 
+
+
+
+
+
+
 ## Knetic modeling 
 ### Steps 1: setup
 1. Download all kinetic data from [`DynamicDMRSI/data/SNRs`](https://github.com/CMRRChenLab/DynamicDMRSI/tree/main/data/SNRs).
