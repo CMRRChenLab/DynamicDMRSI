@@ -44,8 +44,11 @@ execute the PlotSNRs_maps in matlab
 ### Steps 2: example
 ### Example Output
 execute the PlotKineticModel in matlab
+-
 <img src = "https://github.com/CMRRChenLab/DynamicDMRSI/blob/main/Code/Pictures/Fit1.png" >
+-
 <img src = "https://github.com/CMRRChenLab/DynamicDMRSI/blob/main/Code/Pictures/Fit2.png" >
+-
 <img src = "https://github.com/CMRRChenLab/DynamicDMRSI/blob/main/Code/Pictures/Fit3.png" >
 
 
