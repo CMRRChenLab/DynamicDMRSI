@@ -10,7 +10,7 @@
 
 ## For SNR Maps:
 
-1. Download all SNR files from [`DynamicDMRSI/data/SNRs`](https://github.com/.../DynamicDMRSI/data/SNRs).
+1. Download all SNR files from [`DynamicDMRSI/data/SNRs`](https://github.com/CMRRChenLab/DynamicDMRSI/tree/main/data/SNRs).
 2. Place them in the **same folder** as:
    - `PlotSNRs_maps.p`
    - `subtightplot.m`
