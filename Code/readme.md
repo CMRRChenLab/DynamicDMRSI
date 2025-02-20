@@ -18,7 +18,6 @@
 ---
 ### Steps 2: example
 ### Example Output
-
 <img src = "https://github.com/CMRRChenLab/DynamicDMRSI/tree/main/Code/example.png" >
 
 
