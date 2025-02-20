@@ -2,13 +2,13 @@
 
 
 
-### This folder contains executable files to calculate SNR (Signal-to-Noise Ratio) and perform kinetic modeling.
+# This folder contains executable files to calculate SNR (Signal-to-Noise Ratio) and perform kinetic modeling.
 
 
-#### Plot SNR maps
+## Plot SNR maps
 ---
 ### Steps 1: setup
-## For SNR Maps:
+### For SNR Maps:
 
 1. Download all SNR files from [`DynamicDMRSI/data/SNRs`](https://github.com/CMRRChenLab/DynamicDMRSI/tree/main/data/SNRs).
 2. Place them in the **same folder** as:
