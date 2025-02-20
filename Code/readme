@@ -1,13 +1,13 @@
 # SNR and Kinetic Modeling Tools
 
-<div style="font-size: 20px;">
 
-**This folder contains executable files to calculate SNR (Signal-to-Noise Ratio) and perform kinetic modeling.**
 
-</div>
+###This folder contains executable files to calculate SNR (Signal-to-Noise Ratio) and perform kinetic modeling.
+
+
 
 ---
-
+### Steps 1: setup
 ## For SNR Maps:
 
 1. Download all SNR files from [`DynamicDMRSI/data/SNRs`](https://github.com/CMRRChenLab/DynamicDMRSI/tree/main/data/SNRs).
@@ -16,11 +16,11 @@
    - `subtightplot.m`
 
 ---
-
+### Steps 2: example
 ## Example Output
 
-![SNR Maps Example](https://github.com/CMRRChenLab/DynamicDMRSI/edit/main/Code/example.png)  
-*Replace with your actual figure URL/Path*
+<img src = "https://github.com/CMRRChenLab/DynamicDMRSI/edit/main/Code/example.png" >
+
 
 ---
 
