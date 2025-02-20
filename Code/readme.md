@@ -18,8 +18,24 @@
 ---
 ### Steps 2: example
 ### Example Output
+execute the PlotSNRs_maps in matlab
 <img src = "https://github.com/CMRRChenLab/DynamicDMRSI/blob/main/Code/Pictures/example.png" >
 ---
+
+## Knetic modeling 
+### Steps 1: setup
+1. Download all kinetic data from [`DynamicDMRSI/data/SNRs`](https://github.com/CMRRChenLab/DynamicDMRSI/tree/main/data/SNRs).
+2. Place them in the **same folder** as:
+   - `PlotKineticModel.p`
+     
+---   
+### Steps 2: example
+### Example Output
+execute the PlotKineticModel in matlab
+<img src = "https://github.com/CMRRChenLab/DynamicDMRSI/blob/main/Code/Pictures/example.png" >
+
+
+
 
 ### Requirements
 - MATLAB R2019b or later
