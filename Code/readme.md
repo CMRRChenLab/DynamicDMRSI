@@ -6,7 +6,7 @@
 
 ----
 ## Plot SNR maps
---
+<br />
 ### Steps 1: setup
 ### For SNR Maps:
 
